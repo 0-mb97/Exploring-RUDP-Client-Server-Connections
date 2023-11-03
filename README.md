@@ -1,4 +1,4 @@
-# Final_Project_Networking
+# Exploring Rudp Client-Server Connections
 Please have a look at the [attached PDF](https://github.com/0-mb97/rudp-protocol/blob/main/Exploring%20Client-Server%20Connections.pdf)
 ## System Characterization
 ### System Overview
