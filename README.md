@@ -1,5 +1,5 @@
 # Final_Project_Networking
-Please have a look at the [attached PDF](https://github.com/MosheOfer1/Final_Project_Networking/blob/main/final_project.pdf)
+Please have a look at the [attached PDF](https://github.com/0-mb97/rudp-protocol/blob/main/Exploring%20Client-Server%20Connections.pdf))
 ## System Characterization
 ### System Overview
 
